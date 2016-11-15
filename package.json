@@ -1,0 +1,19 @@
+{
+  "name": "koteeswa",
+  "version": "1.1.0",
+  "description": "This tests node module creation and utilization",
+  "main": "hello.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kkoteeswaran"
+  },
+  "keywords": [
+    "hello",
+    "test"
+  ],
+  "author": "Keerthi Koteeswaran",
+  "license": "ISC"
+}
